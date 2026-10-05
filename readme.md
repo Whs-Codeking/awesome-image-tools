@@ -12,6 +12,20 @@ The list is intentionally small enough to maintain by hand. If a tool stops bein
 - `OSS` — Open source. Source link in the entry.
 - `$` — Has a paid tier. A usable free tier exists unless noted.
 
+## Contents# Awesome Image Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+> A curated list of tools for compressing, converting, resizing, editing and inspecting images.
+
+There are hundreds of image utilities and most "best image tool" lists are just affiliate roundups. This one is opinionated. It leans toward tools that **run in your browser without uploading your files**, tools that are **open source**, and the handful of hosted services that are genuinely worth the trade-off. Freemium tools are marked so you know before you click.
+
+The list is intentionally small enough to maintain by hand. If a tool stops being free, changes its privacy model, or no longer deserves its spot, open an issue.
+
+**Legend**
+
+- 🔒 — Runs entirely in your browser. Files are never uploaded to a server.
+- `OSS` — Open source. Source link in the entry.
+- `$` — Has a paid tier. A usable free tier exists unless noted.
+
 ## Contents
 
 - [Compression](#compression)
@@ -68,6 +82,7 @@ The list is intentionally small enough to maintain by hand. If a tool stops bein
 - [Krita](https://krita.org) `OSS` — Open-source painting and illustration studio. Built for digital art and brushwork, but a capable raster editor in general.
 - [Paint.NET](https://www.getpaint.net) — Free (closed source) Windows editor that sits between Paint and Photoshop. Layers and plugins without the GIMP learning curve.
 - [Photopea](https://www.photopea.com) 🔒 `$` — Full-featured image editor in a browser tab. Opens and saves PSD, supports layers and adjustment layers, and keeps your files local. Free with ads.
+- [PicCollages](https://piccollages.com/) — Free photo collage maker with grid layouts, spacing, borders, text and stickers; editing and direct export stay in the browser, while optional account work-saving uploads photos.
 - [Pixlr](https://pixlr.com) `$` — Browser editors (Pixlr X for quick edits, Pixlr E for advanced) with a familiar layout. Free tier is ad-supported.
 
 ## Metadata & EXIF
